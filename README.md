@@ -1,5 +1,5 @@
 <!-- GETTING STARTED -->
-## Freesound.org Scraper Tool
+## Freesound.org Scraper Tool (made with ChatGPT)
 
 Freesound.org has a huge growing library of searchable sounds. 
 
