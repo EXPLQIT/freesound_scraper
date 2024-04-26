@@ -20,7 +20,7 @@ This script require BeautifulSoup & Requests:
    pip install requests beautifulsoup4
   ```
 
-Update this to the directory in which you wish to have the sounds saved to: (the '\\\'s are necessary)
+Update this to the directory in which you wish to have the sounds saved to: (the \\ are necessary)
 ```sh
   specific_directory = 'DOWNLOADS\\GO\\HERE'
   ```
